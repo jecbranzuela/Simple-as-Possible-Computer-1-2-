@@ -1,0 +1,9 @@
+during write, accept input
+during read, display output
+
+CS always 1
+
+Assuming WE 1
+OE 0 : display output
+
+WE 
